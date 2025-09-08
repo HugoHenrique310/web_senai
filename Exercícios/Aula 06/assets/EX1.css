@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.text-red {
+    color: white;
+    background-color: red;
+    font-size: 36px;
+    font-family: "arial";
+    display: inline;
+}
+
+body {
+    background-color: black;
+}
