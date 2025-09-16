@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+    font-size: 36px;
+    text-align: center;
+}
+
+
+
+.verde{
+    display: inline-block;
+    background-color: green;
+    height: 250px;
+    border-radius: 10px;
+    width: 17%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.azul{
+    display: inline-block;
+    background-color: blue;
+    height: 250px;
+    border-radius: 140px;
+    width: 16%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.amarelho{
+    display: inline-block;
+    background-color: yellow;
+    height: 250px;
+    border-radius: 20px;
+    width: 17%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.verde1{
+    display: inline-block;
+    background-color: green;
+    height: 200px;
+    border-radius: 40px;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
